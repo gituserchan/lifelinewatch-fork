@@ -1,3 +1,11 @@
+## 👤 My Contributions (개인 기여 요약)
+
+### Lifeline Watch (Backend)
+- FCM 연동 및 예외 처리: 노인-사회복지사 매칭 기반 긴급 알림 전송 로직 구현
+- 약 복용 알람: Spring Scheduler 기반 반복 알람/중복 실행 방지 Lock 처리
+- 보안/인증: JWT 필터, 토큰 만료 처리, Swagger 보안 스킴 적용
+- 이슈 해결: Spring Security StrictHttpFirewall로 인한 403 문제 해결
+
 ## 📠 Convention
 
 ### 🤝 Branch Naming Convention
